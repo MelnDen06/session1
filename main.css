@@ -3,9 +3,6 @@ body{
     overflow-x: hidden;
 }
 button:focus {outline:0;}
-    button:hover{
-        color: #878b92;
-    }
 header{
     z-index: 1;
     position: absolute;
@@ -95,6 +92,9 @@ header{
             margin-left: 10px;
             min-width: 120px;
             min-height: 42px;
+         }
+         .order_button:hover{
+             color: aqua;
          }
     .dots{
         position: absolute;
