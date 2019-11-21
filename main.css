@@ -3,6 +3,9 @@ body{
     overflow-x: hidden;
 }
 button:focus {outline:0;}
+    button:hover{
+        color: #878b92;
+    }
 header{
     z-index: 1;
     position: absolute;
