@@ -95,6 +95,7 @@ header{
          }
          .order_button:hover{
              background-color: aqua;
+             color: red;
          }
     .dots{
         position: absolute;
