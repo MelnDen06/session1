@@ -416,6 +416,10 @@ header{
         font-size: 20px;
         height: 69px;
     }
+    .financing button:hover{
+        background-color: #A61000;
+    }
+    
 .partners{
     padding-top: 70px;
     padding-bottom: 70px;
@@ -592,6 +596,9 @@ footer{
         border: none;
         width: 142px;
         height: 42px;
+    }
+    .footer_content button:hover{
+        background-color: #A61000;
     }
     .footer_content p{
         margin-top: 100px;
