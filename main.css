@@ -94,8 +94,7 @@ header{
             min-height: 42px;
          }
          .order_button:hover{
-             background-color: aqua;
-             color: red;
+             color: #A61000;
          }
     .dots{
         position: absolute;
